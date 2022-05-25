@@ -1,0 +1,38 @@
+{
+	"nombre": "Rut Chulin Delgado",
+	"puesto": "Aprendiz Developer",
+	"Resumen": "Hi! i am from Quintan Roo, Mexico, I am started to work how aprendiz 6 months ago in a companie that create page webs, I have a litle the experience working in this area",
+
+	"Programation Skills": [
+		"Java",
+		"Elixir",
+		"css",
+		"html",
+		"Tailwinds CSS",
+		"Bootstrap",
+		"PostgresSQl"
+	],
+	"Hobbies": [
+		"Movies",
+		"Play violin",
+		"walk"
+	],
+	"contact": [
+		"rutchulin0@gmail.com",
+		"RutCD",
+		"Rut Chulin"
+
+	],
+
+	"experience": [
+		"waitres",
+		"Assistant",
+		"Aprendiz developer"
+
+	],
+	"educacion": [
+		"Hight School Jose Espana Cruz",
+		"Colegio de Bachilleres",
+		"TI Desarrollo Multiplataforma"
+	]
+}
